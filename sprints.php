@@ -14,7 +14,7 @@ include 'header.php';
     <title>GTI-Hub | <?php echo $pageTitle; ?></title>
     <style>
         body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 20px auto; padding: 20px; }
-        form { display: flex; flex-direction: column; max-width: 400px; gap: 15px; background: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        form { display: flex; flex-d    irection: column; max-width: 400px; gap: 15px; background: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
         label { font-weight: bold; margin-bottom: -10px; }
         input, select { padding: 10px; border: 1px solid #ddd; border-radius: 4px; }
         button { background: #687291; color: white; padding: 12px; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; }
